@@ -4,12 +4,10 @@ Joel Turner
 <img src="jrtphto.jpg" width="150"/>
 
 
-[Appalachian State University](https://www.appstate.edu/
-)
-[Geography (Certificate in GIS)](https://geo.appstate.edu/
-)
-[Boone, North Carolina](https://www.townofboone.net/)
-Email: Turnerjr4@appstate.edu
+- [Appalachian State University](https://www.appstate.edu/)
+- [Geography (Certificate in GIS)](https://geo.appstate.edu/)
+- [Boone, North Carolina](https://www.townofboone.net/)
+- Email: Turnerjr4@appstate.edu
 
 Previous Work
 ==
